@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 This is the GitHub page of of the Human-Computer Interaction Group led by Prof. Andreas Riener at the Technische Hochschule Ingolstadt (THI). 
-You can learn more about us at [our website](https://hcig.thi.de)
+You can learn more about us at [our website: hcig.thi.de](https://hcig.thi.de).
 
 <!--
 
